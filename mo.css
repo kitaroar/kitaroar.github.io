@@ -1,6 +1,6 @@
 body{
 	background:#112233;
-	background-image: url('https://i.imgur.com/bEA0wVk.png');
+	background-image: url('/bg2bw.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top;
@@ -51,7 +51,7 @@ img{
 	font-size:20px
 }
 #t{
-    background-image: url("https://i.imgur.com/kXYTV9o.png");
+    background-image: url("title.png");
     background-repeat: no-repeat;
     background-position: center;
     display: block;
